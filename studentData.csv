@@ -1,0 +1,4 @@
+RollNo,Name,Age,Gender,Branch,Marks,CGPA
+101,Manjot Kaur,20,Female,CSE,"{'Python': 89, 'DBMS': 92, 'Operating System': 84, 'Computer Networks': 90, 'DSA': 64}",8.97
+102,Khushi,20,Female,CSE,"{'Python': 90, 'DBMS': 89, 'Operating System': 78, 'Computer Networks': 92, 'DSA': 67}",8.76
+103,Suman,22,Female,IT,"{'Python': 90, 'Web Development': 96, 'DBMS': 91, 'Cloud Computing': 89}",9.63
